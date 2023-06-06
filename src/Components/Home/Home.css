@@ -1,0 +1,18 @@
+
+.Blogs{
+    display: flex;
+    flex-direction: row;
+    margin-left: 39px;
+    }
+  .mainBlog{
+    margin: 20px 20px 20px 20px;
+    color: rgb(255, 255, 255);
+    background-color: rgba(255, 255,255, 0.4);
+    border-radius: 10px;
+  }
+  #heading{
+    padding-top: 10px;
+    text-align: center;
+    color: black;
+  }
+ 
